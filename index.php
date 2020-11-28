@@ -1,1 +1,5 @@
-<div>beer</div>
+<html>
+    <body>
+        beer
+    </body>
+</html>
